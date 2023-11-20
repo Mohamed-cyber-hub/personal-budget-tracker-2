@@ -1,3 +1,9 @@
+Hello and welcome to my GitHub channel
+This is a Budget Tracker Web app
+A personal budget tracker website is an online tool designed to help individuals manage their finances by tracking income, expenses, and overall spending patterns
+
+![image](https://github.com/Mohamed-cyber-hub/personal-budget-tracker-2/assets/117452987/51b83926-2428-449c-93fa-67e4baea4c9e)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
